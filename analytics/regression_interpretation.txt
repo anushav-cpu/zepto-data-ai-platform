@@ -1,0 +1,10 @@
+Fare Regression Analysis
+========================
+
+MAE: 20.8094
+RMSE: 30.4731
+R2: 0.3999
+Adjusted R2: 0.3679
+
+Heteroscedasticity conclusion:
+The residual spread changes noticeably across predicted Fare levels, suggesting heteroscedasticity.

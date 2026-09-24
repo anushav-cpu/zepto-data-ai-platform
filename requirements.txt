@@ -1,3 +1,9 @@
 requests
 beautifulsoup4
 pandas
+seaborn
+scikit-learn
+imbalanced-learn
+matplotlib
+joblib
+jupyter
