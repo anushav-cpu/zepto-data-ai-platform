@@ -168,3 +168,4 @@ books_raw.csv
 books_clean.csv
 books.db
 sql_results.txts
+Module 1 data pipeline implementation completed and tested successfully.
