@@ -163,9 +163,8 @@ python data_pipeline/sql_queries.py
 Module 1 Output
 
 After successful execution, the following files are generated:
-
 books_raw.csv
 books_clean.csv
 books.db
-sql_results.txts
+sql_results.txt
 Module 1 data pipeline implementation completed and tested successfully.
